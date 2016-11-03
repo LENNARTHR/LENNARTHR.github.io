@@ -1,0 +1,120 @@
+body{
+	background-image: url("Vlootbackground.png");
+	background-repeat:repeat-x;
+}
+
+h1{
+	position:relative;
+	left:20px;
+	top:5px;
+}
+
+ul{
+	margin: 0 auto;
+	width: 700px;
+	position: relative;
+	bottom: -120px;
+	right:71px;
+	color:white;
+	font-size:13px;
+}
+
+li{
+	 display:inline;
+     padding: 17px;
+}
+
+#Banner{
+	background-image: url("Vlootheader.jpg");
+	background-repeat: no-repeat;
+	width: 800px;
+	height: 269px;
+	position:relative;
+	top:-22px;
+	left:350px;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+.UH2{
+	position:relative;
+	left:20px;
+	top:-20px;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+#TB2{
+	 background-color: white;
+	 margin-top:-18px;
+     width:800px;
+     height:1000px;
+     position:relative;
+     left:350px;
+     top:-5px;
+     font-family:"Trebuchet MS", Helvetica, sans-serif;
+     display:inline-block;
+
+}
+
+h2{
+	position:relative;
+	left:20px;
+	top:10px;
+}
+	
+.GSimage1{
+	float:left;
+	position:relative;
+    left:20px;
+	padding-right:40px;
+	margin-bottom:20px;
+	margin-top:5px;
+}
+
+.GSimage2{
+    float: right;
+	position:relative;
+	left:20px;
+	padding-right:40px;
+	margin-bottom:20px;
+	padding-left:20px;
+}
+
+.GSimage3{
+	float: left;
+	position:relative;
+	left:20px;
+	padding-right:40px;
+	margin-top:15px;
+}
+
+
+.GT1{
+	margin-left:20px;
+	font-size:18px;
+	margin-right:20px;
+}
+
+.GT2{
+	margin-left:20px;
+	margin-right:20px;
+	font-size:18px;
+}
+
+.GT3{
+	margin-left:20px;
+	margin-right:20px;
+	font-size:18px;
+	margin-top:30px;
+}
+
+a { color:white } /* Globally */
+
+/* Each state */
+
+a:visited { text-decoration: none; color: white; }
+a:hover { text-decoration: none; color:blue; }
+a:focus { text-decoration: none; color:yellow; }
+a:hover, a:active { text-decoration: none; color:black }
+
+a {text-decoration: none; }
+
