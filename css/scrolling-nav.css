@@ -100,6 +100,12 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
+.assignment-section {
+    height: 230%;
+    padding-top: 70px;
+    text-align: center;
+    background: #eee;
+}
 
 #TBO{
     position:absolute;
