@@ -574,3 +574,37 @@ header p {
     top:370px;
      box-shadow: 10px 10px 10px 10px #888888;
 }
+
+table {
+    border: 1px solid silver;
+}
+
+.tabletitle {
+    font-size: 150%;
+    background-color: silver;
+}
+
+td {
+    text-align: left;
+    text-decoration:none;
+}
+
+a:link {
+    color: black;
+}
+
+
+a:visited {
+    color: black;
+}
+
+
+a:hover {
+    color: black;
+}
+
+
+a:active {
+    color: black;
+}
+
